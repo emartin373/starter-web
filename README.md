@@ -8,7 +8,8 @@ Sample website with plenty of files for demos
 
 ### Deployment 
 
-Sampe text under Deployment
+Sample text under Deployment
 
 #### Exit
 
+Add exit text
